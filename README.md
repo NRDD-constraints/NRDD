@@ -1,6 +1,6 @@
-# NRDD-constraints : A python tool for calculating the exclusion plot for Dark Matter interactions with the Standard Model in non-relativistic Effective Theory Model. 
+# NRDD-constraints : A python module for calculating the exclusion plot for Dark Matter interactions with the Standard Model in non-relativistic Effective Theory Model. 
 
-<code> NRDD constraints</code> tool provides simple interpolating function written in python
+<code> NRDD-constraints</code> tool provides simple interpolating function written in python
 for a given generalized non-relativistic (NR) term among those listed in Table 2 of [arXiv: 1809.XXXXX](https://arxiv.org/). The package contains only three files:
 
 * The code, **NR_DD_constraints.py** 
@@ -10,6 +10,10 @@ for a given generalized non-relativistic (NR) term among those listed in Table 2
 You can get the latest version of <code> NRDD-constraints</code> from [github](https://github.com/NRDD-constraints/NRDD).
 
 # Installation
+
+The module can be downloaded from [https://github.com/NRDD-constraints/NRDD/archive/master.zip](https://github.com/NRDD-constraints/NRDD/archive/master.zip) or cloned by,
+
+<code> git clone https://github.com/NRDD-constraints/NRDD </code>
 
 # Usage
 
