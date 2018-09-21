@@ -45,7 +45,7 @@ dependence in the Wilson coefficient which have been included in [arXiv: 1809.XX
 
 # Citation
 
-If you use <code> NRDD-constraints code </code> please cite the following papers: [1805.06113](https://arxiv.org/abs/1805.06113),
+If you use <code> NRDD-constraints</code> please cite the following papers: [1805.06113](https://arxiv.org/abs/1805.06113),
 [arXiv: 1809.XXXXX](https://arxiv.org/)
 
 # Authors
