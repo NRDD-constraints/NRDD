@@ -17,7 +17,7 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 # Usage
 
-Here is a simple example for using NRDD-constraints:
+Here is a simple example for using <code> NRDD-constraints</code>:
 
 Import the package:
 
@@ -25,13 +25,13 @@ Import the package:
 
 This defines two functions:
 
-<code> sigma_p_bound(**int, mchi, r**) </code> which calculates cross-section as a function of the wimp mass 
-mchi and of the ratio (DM-neutron to DM-proton couplings) r in the ranges 0.1 GeV < mchi < 100 GeV, -10000 < r < 10000.
+* <code> sigma_p_bound(**int, mchi, r**) </code> which calculates cross-section as a function of the WIMP mass 
+mchi and of the ratio r (DM-neutron to DM-proton couplings) in the ranges 0.1 GeV < mchi < 100 GeV, -10000 < r < 10000.
 
-The <code> **int** </code> parameter is a string that selects the interaction term
+   The <code> **int** </code> parameter is a string that selects the interaction term
 and can be chosen in the list provided by second function <code> print_interactions() </code>.
 
-<code> NR.print_interactions()</code> gives the possible interactions.
+* <code> NR.print_interactions()</code> gives the possible interactions.
 
 ['O12_O12', 'O6_O6_qm4', 'O14_O14', 'O7_O7', 'O4_O4',
 'O13_O13', 'O5_O5', 'O8_O8', 'O11_O11', 'O9_O9',
