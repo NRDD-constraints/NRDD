@@ -4,8 +4,8 @@
 for a given generalized non-relativistic (NR) term among those listed in Table 2 of [arXiv: 1809.XXXXX](https://arxiv.org/). The package contains three files:
 
 * The code, **NRDD-constraints.py** 
-* A simple driver, **NRDD-constraints_example.py**
-* A data file, **all_nr_interactions_planes.npy**
+* A simple driver, **NRDD-constraints-example.py**
+* A data file, **data.npy**
 
 You can get the latest version of <code> NRDD-constraints</code> from [github](https://github.com/NRDD-constraints/NRDD).
 
