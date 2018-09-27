@@ -38,7 +38,7 @@ and can be chosen in the list provided by second function <code> print_interacti
 'O12_O12', 'O13_O13', 'O14_O14', 'O15_O15'
 'O5_O5_qm4', 'O6_O6_qm4', 'O11_O11_qm4'] 
 
-The output of <code> sigma_p_bound(**int, mchi, r**) </code> corresponds to the results of 
+The output of <code> sigma_p_bound(**inter, mchi, r**) </code> corresponds to the results of 
 [1805.06113](https://arxiv.org/abs/1805.06113) (updated to
 the latest XENON1T bound) with the exception of the interaction terms with momentum
 dependence in the Wilson coefficient which have been included in [arXiv: 1809.XXXXX](https://arxiv.org/). 
