@@ -17,7 +17,7 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 # Usage
 
-Please see **NRDD-constraints_example.py** for details. Brief overview for using <code> NRDD-constraints</code>:
+Please see **NRDD-constraints_example.py** for details. Brief overview for using <code> NRDD-constraints</code> is following,
 
 Import the package:
 
@@ -31,12 +31,12 @@ mchi and of the ratio r (DM-neutron to DM-proton couplings) in the ranges 0.1 Ge
    The <code> **int** </code> parameter is a string that selects the interaction term
 and can be chosen in the list provided by second function <code> print_interactions() </code>.
 
-* <code> print_interactions()</code> which gives the possible interactions:
+* <code> print_interactions()</code> gives the possible interactions:
 
-['O12_O12', 'O6_O6_qm4', 'O14_O14', 'O7_O7', 'O4_O4',
-'O13_O13', 'O5_O5', 'O8_O8', 'O11_O11', 'O9_O9',
-'O3_O3', 'O5_O5_qm4', 'O10_O10', 'O11_O11_qm4',
-'O6_O6', 'O1_O1', 'O15_O15'] 
+['O1_O1','O3_O3', 'O4_O4', 'O5_O5', 'O6_O6', 
+'O7_O7', 'O8_O8', 'O9_O9', 'O10_O10', 'O11_O11',
+'O12_O12', 'O13_O13', 'O14_O14', 'O15_O15'
+'O5_O5_qm4', 'O6_O6_qm4', 'O11_O11_qm4'] 
 
 The output of <code> sigma_p_bound(**int, mchi, r**) </code> corresponds to the results of 
 [1805.06113](https://arxiv.org/abs/1805.06113) (updated to
