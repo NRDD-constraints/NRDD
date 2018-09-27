@@ -25,10 +25,10 @@ Import the package:
 
 This defines two functions:
 
-* <code> sigma_p_bound(**int, mchi, r**) </code> which calculates cross-section as a function of the WIMP mass 
+* <code> sigma_p_bound(**inter, mchi, r**) </code> which calculates cross-section as a function of the WIMP mass 
 mchi and of the ratio r (DM-neutron to DM-proton couplings) in the ranges 0.1 GeV < mchi < 100 GeV, -10000 < r < 10000.
 
-   The <code> **int** </code> parameter is a string that selects the interaction term
+   The <code> **inter** </code> parameter is a string that selects the interaction term
 and can be chosen in the list provided by second function <code> print_interactions() </code>.
 
 * <code> print_interactions()</code> gives the possible interactions:
