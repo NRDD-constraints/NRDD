@@ -1,10 +1,10 @@
-# NRDD-constraints : A python tool for calculating the exclusion plot for Dark Matter interactions with the Standard Model in non-relativistic Effective Theory Model. 
+# NRDD_constraints : A python tool for calculating the exclusion plot for Dark Matter interactions with the Standard Model in non-relativistic Effective Theory Model. 
 
 <code> NRDD-constraints</code> tool provides simple interpolating function written in python
 for a given generalized non-relativistic (NR) term among those listed in Table 2 of [arXiv: 1809.XXXXX](https://arxiv.org/). The package contains three files:
 
-* The code, **NRDD-constraints.py** 
-* A simple driver, **NRDD-constraints-example.py**
+* The code, **NRDD_constraints.py** 
+* A simple driver, **NRDD_constraints-example.py**
 * A data file, **data.npy**
 
 You can get the latest version of <code> NRDD-constraints</code> from [github](https://github.com/NRDD-constraints/NRDD).
@@ -17,11 +17,11 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 # Usage
 
-Please see **NRDD-constraints_example.py** for details. Brief overview for using <code> NRDD-constraints</code> is following,
+Please see **NRDD_constraints-example.py** for details. Brief overview for using <code> NRDD_constraints</code> is following,
 
 Import the package:
 
-<code> import NR_DD_constraints as NR </code>
+<code> import NRDD_constraints as NR </code>
 
 This defines two functions:
 
@@ -45,7 +45,7 @@ dependence in the Wilson coefficient which have been included in [arXiv: 1809.XX
 
 # Citation
 
-If you use <code> NRDD-constraints</code> please cite the following papers: [1805.06113](https://arxiv.org/abs/1805.06113),
+If you use <code> NRDD_constraints</code> please cite the following papers: [1805.06113](https://arxiv.org/abs/1805.06113),
 [arXiv: 1809.XXXXX](https://arxiv.org/)
 
 # Authors
@@ -57,4 +57,4 @@ If you use <code> NRDD-constraints</code> please cite the following papers: [180
 
 # License
 
-<code> NRDD-constraints</code> is distributed under the MIT license.
+<code> NRDD_constraints</code> is distributed under the MIT license.
