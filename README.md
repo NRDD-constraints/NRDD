@@ -17,7 +17,7 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 # Usage
 
-Please see **appendix B** of [arXiv: 1809.XXXXX](https://arxiv.org/) and **NRDD_constraints-example.py** for details. Brief overview for using <code> NRDD_constraints</code> is following,
+Please see **appendix B** of [arXiv: 1809.XXXXX](https://arxiv.org/) and **NRDD_constraints-example.py** for detailed explanation. Brief overview for using <code> NRDD_constraints</code> is following,
 
 Import the package:
 
