@@ -58,3 +58,5 @@ If you use <code> NRDD_constraints</code> please cite the following papers: [180
 # License
 
 <code> NRDD_constraints</code> is distributed under the MIT license.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
