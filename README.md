@@ -18,7 +18,7 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 Please see **appendix B** of [arXiv: 1809.XXXXX](https://arxiv.org/) and **NRDD_constraints-example.py** for a detailed explanation. 
 
-*Brief overview for using <code> NRDD_constraints</code>*
+*Brief overview for using <code>* NRDD_constraints</code>
 
 Import the package:
 
@@ -40,12 +40,12 @@ and can be chosen in the list provided by second function <code> print_interacti
 'O5_O5_qm4', 'O6_O6_qm4', 'O11_O11_qm4'] 
 
 The output of <code> sigma_nucleon_bound(**inter, mchi, r**) </code> corresponds to the results of 
-[1805.06113](https://arxiv.org/abs/1805.06113) (updated to
-the XENON1T bound in [1805.12562](https://arxiv.org/abs/1805.12562)) with the exception of the long-range interaction terms with a photon propagator, which have been discussed in [arXiv: 1809.XXXXX](https://arxiv.org/). 
+[arXiv: 1805.06113](https://arxiv.org/abs/1805.06113) (updated to
+the XENON1T bound in [arXiv: 1805.12562](https://arxiv.org/abs/1805.12562)) with the exception of the long-range interaction terms with a photon propagator, which have been discussed in [arXiv: 1809.XXXXX](https://arxiv.org/). 
 
 # Citation
 
-If you use <code> NRDD_constraints</code> please cite the following papers: [1805.06113](https://arxiv.org/abs/1805.06113),
+If you use <code> NRDD_constraints</code> please cite the following papers: [arXiv: 1805.06113](https://arxiv.org/abs/1805.06113),
 [arXiv: 1809.XXXXX](https://arxiv.org/)
 
 # Authors
