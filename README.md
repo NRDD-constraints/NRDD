@@ -1,7 +1,6 @@
-# NRDD_constraints : A python tool for calculating the exclusion plot for Dark Matter interactions with the Standard Model in non-relativistic Effective Theory Model. 
+# NRDD_constraints : A python tool for calculating the direct-detection exclusion plot for the WIMP-nucleon cross section in a non-relativistic effective model. 
 
-<code> NRDD_constraints</code> tool provides simple interpolating function written in python
-for a given generalized non-relativistic (NR) diagonal term among those listed in Table 2 of [arXiv: 1809.XXXXX](https://arxiv.org/) and calculates the most constraining limit on dark matter-nucleon scattering cross section. The package contains three files:
+The <code> NRDD_constraints</code> tool provides simple interpolating functions written in python that return the most constraining limit on the dark matter-nucleon scattering cross section for a list of non-relativistic effective operators  that corresponds to the diagonal terms listed in Table 2 of [arXiv: 1809.XXXXX](https://arxiv.org/). The package contains three files:
 
 * The code, **NRDD_constraints.py** 
 * A simple driver, **NRDD_constraints-example.py**
