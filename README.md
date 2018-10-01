@@ -44,7 +44,7 @@ The output of <code> sigma_nucleon_bound(**inter, mchi, r**) </code> corresponds
 [arXiv: 1805.06113](https://arxiv.org/abs/1805.06113) (updated to
 the XENON1T bound in [arXiv: 1805.12562](https://arxiv.org/abs/1805.12562)) with the exception of the long-range interaction terms with a photon propagator. 
 
-The package can be tested by typying:
+The package can be tested by typing:
 
 python NRDD_constraints-example.py
 
