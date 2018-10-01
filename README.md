@@ -4,7 +4,7 @@ The <code> NRDD_constraints</code> tool provides simple interpolating functions 
 
 * The code, **NRDD_constraints.py** 
 * A simple driver, **NRDD_constraints-example.py**
-* A data file, **NRDD_data.npy**
+* A data file, **NRDD_data.npy** (version 1.0, October 2018)
 
 and requires NumPy.
 You can get the latest version of <code> NRDD_constraints</code> from [github](https://github.com/NRDD-constraints/NRDD).
