@@ -41,7 +41,7 @@ and can be chosen in the list provided by second function <code> print_interacti
 
 The output of <code> sigma_nucleon_bound(**inter, mchi, r**) </code> corresponds to the results of 
 [arXiv: 1805.06113](https://arxiv.org/abs/1805.06113) (updated to
-the XENON1T bound in [arXiv: 1805.12562](https://arxiv.org/abs/1805.12562)) with the exception of the long-range interaction terms with a photon propagator, which have been discussed in [arXiv: 1809.XXXXX](https://arxiv.org/). 
+the XENON1T bound in [arXiv: 1805.12562](https://arxiv.org/abs/1805.12562)) with the exception of the long-range interaction terms with a photon propagator. 
 
 # Citation
 
