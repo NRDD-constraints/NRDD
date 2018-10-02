@@ -1,6 +1,6 @@
 # NRDD_constraints : A python tool for calculating the direct-detection exclusion plot for the WIMP-nucleon cross section in a non-relativistic effective model. 
 
-The <code> NRDD_constraints</code> tool provides simple interpolating functions written in python that return the most constraining limit on the dark matter-nucleon scattering cross section for a list of non-relativistic effective operators  that corresponds to the diagonal terms listed in Table 2 of [arXiv: 1810.XXXXX](https://arxiv.org/) with the exception of those proportional to a meson pole. The package contains three files:
+The <code> NRDD_constraints</code> tool provides simple interpolating functions written in python that return the most constraining limit on the dark matter-nucleon scattering cross section for a list of non-relativistic effective operators  that corresponds to the diagonal terms listed in Table 2 of [arXiv: 1810.00607](https://arxiv.org/abs/1810.00607) with the exception of those proportional to a meson pole. The package contains three files:
 
 * The code, **NRDD_constraints.py** 
 * A simple driver, **NRDD_constraints-example.py**
@@ -17,7 +17,7 @@ The tool can be downloaded from [https://github.com/NRDD-constraints/NRDD/archiv
 
 # Usage
 
-Please see **appendix B** of [arXiv: 1810.XXXXX](https://arxiv.org/) and **NRDD_constraints-example.py** for a detailed explanation. 
+Please see **appendix B** of [arXiv: 1810.00607](https://arxiv.org/) and **NRDD_constraints-example.py** for a detailed explanation. 
 
 *Brief overview for using <code>* NRDD_constraints</code>
 
@@ -55,7 +55,7 @@ in the same directory containing NRDD_constraints.py and NRDD_data.npy. NRDD_con
 # Citation
 
 If you use <code> NRDD_constraints</code> please cite the following papers: [arXiv: 1805.06113](https://arxiv.org/abs/1805.06113),
-[arXiv: 1810.XXXXX](https://arxiv.org/)
+[arXiv: 1810.00607](https://arxiv.org/abs/1810.00607)
 
 # Authors
 
