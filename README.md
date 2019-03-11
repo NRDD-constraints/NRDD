@@ -8,7 +8,7 @@ The <code> NRDD_constraints</code> tool provides simple interpolating functions 
 
 and requires SciPy. 
 
-# Log:
+# Log
  * version 1.0, October 2018.
  * version 2.0, March 2019: Updated with new results from [Xenon1T](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.111302), [PandaX-II](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.181302), [PICO-60](https://arxiv.org/abs/1902.04031), and [COSINE-100](https://www.nature.com/articles/s41586-018-0739-1)
  
