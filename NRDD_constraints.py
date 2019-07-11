@@ -1,8 +1,8 @@
 import numpy as np
 from scipy import interpolate
 
-planes1=np.load('NRDD_data1.npy')
-planes2=np.load('NRDD_data2.npy')
+planes1=np.load('NRDD_data1.npy', allow_pickle=True, encoding = 'latin1')
+planes2=np.load('NRDD_data2.npy', allow_pickle=True, encoding = 'latin1')
 
 planes=np.append(planes1,planes2).reshape(17,3)
 
