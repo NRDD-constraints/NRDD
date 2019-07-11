@@ -10,7 +10,8 @@ and requires NumPy and SciPy. This version is compaitable with Python 3.x.xx
 
 # Log
  * version 1.0, October 2018.
- * version 2.0, March 2019: Updated with new results from [Xenon1T](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.111302), [PandaX-II](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.181302), [PICO-60](https://arxiv.org/abs/1902.04031), and [COSINE-100](https://www.nature.com/articles/s41586-018-0739-1)
+ * version 2.3, March 2019: Updated with new results from [Xenon1T](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.111302), [PandaX-II](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.181302), [PICO-60](https://arxiv.org/abs/1902.04031), and [COSINE-100](https://www.nature.com/articles/s41586-018-0739-1)
+ * version 2.7, July 2019: Upgraded to Python 3.x.xx 
  
 You can get the latest version of <code> NRDD_constraints</code> from [github](https://github.com/NRDD-constraints/NRDD).
 
