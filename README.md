@@ -6,7 +6,7 @@ The <code> NRDD_constraints</code> tool provides simple interpolating functions 
 * A simple driver, **NRDD_constraints-example.py**
 * Two data files, **NRDD_data1.npy, NRDD_data2.npy** (version 2.7, July 2019)
 
-and requires NumPy and SciPy. This version is compaitable with Python 3.x.xx 
+and requires NumPy and SciPy. 
 
 # Log
  * version 1.0, October 2018.
